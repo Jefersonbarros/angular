@@ -1,0 +1,2 @@
+Para iniciar o projeto é preciso está dentro do diretório do projéto no cmd
+e executar o comando "ng serve"
